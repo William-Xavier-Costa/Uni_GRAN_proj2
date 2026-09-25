@@ -1,2 +1,2 @@
-# Uni_Gran_script.SQL
+# Uni_Gran_script.sql
 Treinamento SQLserver
